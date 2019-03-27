@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WSR</string>
+    <string name="auth">Авторизация</string>
+    <string name="news">Список новостей</string>
+</resources>
